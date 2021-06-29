@@ -2,7 +2,7 @@ const Header = () => {
   const view = `
     <div class="Header-main">
       <div class="Header-logo">
-          <img src:"https://help.redbubble.com/hc/article_attachments/360002309526/Rick_and_Morty_-_logo__English_.png" alt:"Logo">
+          <h1><a href:"#/home/">Rick and Morty</a></h1>
       </div>
       <div class="Header-nav">
         <a href="#/about/">
