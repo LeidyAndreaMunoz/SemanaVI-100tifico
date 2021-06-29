@@ -3,7 +3,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #e7cece;
   color: #3c484e;
   font-family: 'Open Sans', sans-serif;
 }
@@ -14,9 +14,12 @@ body {
   align-items: center;
 }
 
+.Header h1 {
+  color: #03b4ed;
+}
 .Header a {
   text-decoration: none;
-  color: #15302C;
+  color: #dcebe8;
 }
 
 .Main {

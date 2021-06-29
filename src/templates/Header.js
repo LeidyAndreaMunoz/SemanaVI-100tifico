@@ -2,7 +2,7 @@ const Header = () => {
   const view = `
     <div class="Header-main">
       <div class="Header-logo">
-          <h1><a href:" https://leidyandreamunoz.github.io/SemanaVI-100tifico/">Rick and Morty</a></h1>
+          <h1>Rick and Morty Site</h1>
       </div>
       <div class="Header-nav">
         <a href="#/about/">
