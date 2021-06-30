@@ -10,7 +10,7 @@ body {
 
 .Header-main {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 .Header a {
   text-decoration: none;
-  color: #dcebe8;
+  color: #03b4ed;
 }
 
 .Main {
@@ -48,7 +48,7 @@ body {
   box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
   border-radius: 5px;
   margin: 0 0 20px 0;
-  display: block;
+  display: flex;
   animation-duration: 2s;
   animation-name: fade;
 }
